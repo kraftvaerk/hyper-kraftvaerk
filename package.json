@@ -1,0 +1,23 @@
+{
+  "name": "hyper-kraftvaerk",
+  "version": "1.0.0",
+  "description": "A Kraftvaerk theme for [Hyper™",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/kraftvaerk/hyper-kraftvaerk",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/kraftvaerk/hyper-kraftvaerk/issues"
+  },
+  "homepage": "https://github.com/kraftvaerk/hyper-kraftvaerk#readme",
+  "keywords": [
+    "hyper",
+    "hyper™",
+    "hyperterm",
+    "hyperterm-theme",
+    "kraftvaerk"
+  ],
+  "author": "Mithun Dhiman",
+  "license": "MIT"
+}
