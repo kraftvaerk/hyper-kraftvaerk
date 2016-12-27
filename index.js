@@ -104,7 +104,8 @@ exports.decorateConfig = config => {
                 background-color: rgba(255, 255, 255, 0.1) !important;
             }
             .terms_terms {
-                background: url('${backgroundImage}') bottom left;
+                background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('${backgroundImage}') bottom left;
+                background-size: auto 150%;
             }
         `
     })
