@@ -3,7 +3,7 @@
 # hyper-kraftvaerk
 
 [![Build Status](https://img.shields.io/travis/kraftvaerk/hyper-kraftvaerk.svg?style=flat-square)](https://travis-ci.org/kraftvaerk/hyper-kraftvaerk)
-[![npm Downloads](https://img.shields.io/npm/dt/hyper-kraftvaerk.svg?style=flat-square)](https://www.npmjs.com/package/hyper-kraftvaerk)
+[![npm Downloads](https://img.shields.io/npm/dt/hyper-kraftvaerk.svg?style=flat-square)](https://www.npmjs.com/package/@kraftvaerk/hyper)
 [![GitHub license](https://img.shields.io/github/license/kraftvaerk/hyper-kraftvaerk.svg?style=flat-square)](https://github.com/kraftvaerk/hyper-kraftvaerk/blob/master/LICENSE)
 
 ![hyper](screenshot.png)
@@ -11,7 +11,7 @@
 ### Install
 
 1. Open Hyper™ preferences with your editor - Tip: `CMD+,` or at `~/.hyper.js`.
-2. Add `hyper-kraftvaerk` to your plugins list.
+2. Add `@kraftvaerk/hyper` to your plugins list.
 3. Reload Hyper™ - `CMD+Shift+R`.
 
 ```js
